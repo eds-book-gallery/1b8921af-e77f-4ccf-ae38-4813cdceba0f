@@ -18,7 +18,7 @@
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/publish.yml/badge.svg">
-        <img alt="Ren der badge" src="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/render.yml/badge.svg">
+        <img alt="Render badge" src="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/render.yml/badge.svg">
     </a>
     <br/>
 </p>
