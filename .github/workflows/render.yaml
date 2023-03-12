@@ -1,4 +1,4 @@
-name: render
+name: Render
 
 on:
   workflow_run:
