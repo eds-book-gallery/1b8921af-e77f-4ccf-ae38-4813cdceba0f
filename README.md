@@ -17,7 +17,7 @@
     <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/urban-exploration-climate_ukv/main?labpath=urban-exploration-climate_ukv.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/publish.yml/badge.svg">
+    <a href="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/render.yml/badge.svg">
         <img alt="Render badge" src="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/render.yml/badge.svg">
     </a>
     <br/>
