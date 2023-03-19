@@ -11,14 +11,14 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/blob/main/LICENSE">
+    <a href="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
     </a>
-    <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/urban-exploration-climate_ukv/main?labpath=urban-exploration-climate_ukv.ipynb">
+    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/main?labpath=1b8921af-e77f-4ccf-ae38-4813cdceba0f.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/render.yaml">
-        <img alt="Render" src="https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv/actions/workflows/render.yaml/badge.svg">
+    <a href="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/actions/workflows/render.yaml">
+        <img alt="Render" src="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
@@ -48,18 +48,18 @@ You may also download the notebook from GitHub to run it locally:
 
 3. Clone the repository
     ```bash
-    git clone https://github.com/Environmental-DS-Book/urban-exploration-climate_ukv.git
+    git clone https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f.git
     ```
 
 4. Move into the cloned repository
     ```bash
-    cd urban-exploration-climate_ukv
+    cd 1b8921af-e77f-4ccf-ae38-4813cdceba0f
     ```
 
 5. Create and activate your environment from the `.binder/environment.yml` file
     ```bash
     conda env create -f .binder/environment.yml
-    conda activate urban-exploration-climate_ukv
+    conda activate 1b8921af-e77f-4ccf-ae38-4813cdceba0f
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
