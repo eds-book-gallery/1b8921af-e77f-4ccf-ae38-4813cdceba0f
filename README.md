@@ -12,13 +12,16 @@
 
 <p align="center">
     <a href="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/blob/main/LICENSE">
-        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+        <img alt="license" src="https://img.shields.io/badge/license-MIT-yellow.svg">
     </a>
     <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/main?labpath=1b8921af-e77f-4ccf-ae38-4813cdceba0f.ipynb">
-        <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
+        <img alt="binder" src="https://mybinder.org/badge_logo.svg">
     </a>
     <a href="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/actions/workflows/render.yaml">
-        <img alt="Render" src="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/actions/workflows/render.yaml/badge.svg">
+        <img alt="render" src="https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/actions/workflows/render.yaml/badge.svg">
+    </a>
+    <a href="https://github.com/alan-turing-institute/environmental-ds-book/pull/3">
+        <img alt="review" src="https://img.shields.io/badge/view-review-purple">
     </a>
     <br/>
 </p>
@@ -28,7 +31,7 @@
         <img alt="RoHub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
     <a href="https://doi.org/10.24424/pbvr-gd04">
-        <img alt="DOI" src="https://zenodo.org/badge/DOI/10.24424/pbvr-gd04.svg">
+        <img alt="doi" src="https://zenodo.org/badge/DOI/10.24424/pbvr-gd04.svg">
     </a>
 </p>
 
