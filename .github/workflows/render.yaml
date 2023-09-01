@@ -1,8 +1,9 @@
-name: render
+name: Render
 
 on:
   workflow_run:
     workflows: ["Build and push container image"]
+    branches: main
     types:
       - completed
       
