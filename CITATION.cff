@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Met Office UKV high-resolution atmosphere model data"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Adams
+    given-names: Samantha
+    website: https://github.com/svadams
+    affiliation: Met Office Informatics Lab
+  - name: "This EDS book notebook contributors"
+    website: "https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/graphs/contributors"
+version: v1.0.0 # This is automatically set using the bumpversion tool.
+identifiers:
+  - type: doi
+    value: TBA
+    description: The concept DOI for the collection containing all versions of the notebook.
+abstract: "Notebook developed to demonstrate the use of deep neural networks for the detection of floating objects on Sentinel-2 data."
+keywords:
+  - Environmental Data Science
+  - Urban
+  - Exploration
+  - Climate dataset
