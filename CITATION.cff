@@ -12,7 +12,7 @@ authors:
 version: v1.0.0 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: TBA
+    value: 10.5281/zenodo.8309346
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to demonstrate the use of deep neural networks for the detection of floating objects on Sentinel-2 data."
 keywords:
