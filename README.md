@@ -37,6 +37,9 @@
     <a href="https://w3id.org/ro-id/1b8921af-e77f-4ccf-ae38-4813cdceba0f">
         <img alt="RoHub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
     </a>
+    <a href="https://zenodo.org/badge/latestdoi/493606224">
+        <img alt="doi" src="https://zenodo.org/badge/493606224.svg">
+    </a>
 </p>
 
 <p align="center">
