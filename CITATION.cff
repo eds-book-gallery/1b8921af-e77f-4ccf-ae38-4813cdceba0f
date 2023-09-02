@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Met Office UKV high-resolution atmosphere model data"
+title: "Met Office UKV high-resolution atmosphere model data (Jupyter Notebook) published in the Environmental Data Science book"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 authors:
