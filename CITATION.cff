@@ -9,10 +9,10 @@ authors:
     affiliation: Met Office Informatics Lab
   - name: "This EDS book notebook contributors"
     website: "https://github.com/eds-book-gallery/1b8921af-e77f-4ccf-ae38-4813cdceba0f/graphs/contributors"
-version: v1.0.3 # This is automatically set using the bumpversion tool.
+version: v1.0.4 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.8309346
+    value: 10.5281/zenodo.8309345
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to demonstrate how to explore UKV gridded model data using the Iris package."
 keywords:
