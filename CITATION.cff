@@ -12,7 +12,7 @@ authors:
 version: v1.0.3 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.8309346
+    value: 10.5281/zenodo.8309345
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to demonstrate how to explore UKV gridded model data using the Iris package."
 keywords:
