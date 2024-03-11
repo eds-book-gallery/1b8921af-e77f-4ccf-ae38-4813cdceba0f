@@ -1,9 +1,0 @@
-name: 1b8921af-e77f-4ccf-ae38-4813cdceba0f
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.9
-  - jupyter
-  - iris=3.3.0
-  - pooch
