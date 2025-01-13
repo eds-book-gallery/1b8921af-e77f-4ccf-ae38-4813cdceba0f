@@ -4,7 +4,7 @@ extends:
   - https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook.yml
 project:
   id: 1b8921af-e77f-4ccf-ae38-4813cdceba0f
-  subtitle: Met Office UKV high-resolution atmosphere model data
+  subtitle: UKV high-resolution (Met Office)
   authors:
     - id: acoca
       name: Alejandro Coca-Castro
