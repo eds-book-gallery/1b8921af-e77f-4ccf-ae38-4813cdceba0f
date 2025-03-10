@@ -71,3 +71,5 @@ project:
 
 site:
   template: book-theme
+  bibliography:
+    - references.bib
