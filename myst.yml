@@ -6,18 +6,35 @@ project:
   id: 1b8921af-e77f-4ccf-ae38-4813cdceba0f
   subtitle: UKV high-resolution (Met Office)
   authors:
-    - id: acoca
-      name: Alejandro Coca-Castro
+    - id: sadams
+      name: Samantha V. Adams
       orcid: 0000-0002-9264-1539
       corresponding: true
-      email: acoca@turing.ac.uk
+      email: samantha.adams@metoffice.gov.uk
       roles:
         - Investigation
         - Software
         - Visualization
       affiliations:
+        - metoffice
+    - id: acoca
+      name: Alejandro Coca-Castro
+      orcid: 0000-0002-9264-1539
+      roles:
+        - Validation
+      affiliations:
         - turing
   affiliations:
+    - id: metoffice
+      name: Met Office
+      department: Informatics Lab
+      address: Fitzroy Road,
+      city: Exeter
+      state: Devon
+      postal_code: 'EX1 3PB'
+      country: UK
+      url: https://www.metoffice.gov.uk
+      phone: '03709000100'
     - id: turing
       name: The Alan Turing Institute
       department: Environment & Sustainability
