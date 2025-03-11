@@ -5,6 +5,7 @@ extends:
 project:
   id: 1b8921af-e77f-4ccf-ae38-4813cdceba0f
   subtitle: UKV high-resolution (Met Office)
+  short_title: UKV high-resolution (Met Office)
   authors:
     - id: sadams
       name: Samantha V. Adams
