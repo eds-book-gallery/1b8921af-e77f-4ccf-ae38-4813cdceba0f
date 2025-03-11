@@ -7,6 +7,7 @@ project:
   title: Met Office UKV high-resolution atmosphere model data (Jupyter Notebook) published in the Environmental Data Science book
   subtitle: UKV high-resolution (Met Office)
   short_title: UKV high-resolution (Met Office)
+  abstract: "Notebook developed to demonstrate how to explore UKV gridded model data using the Iris package."
   authors:
     - id: sadams
       name: Samantha V. Adams
@@ -24,6 +25,7 @@ project:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
+      url: https://github.com/acocac
       roles:
         - Writing – review & editing
       affiliations:
@@ -34,23 +36,9 @@ project:
     - id: metoffice
       name: Met Office
       department: Informatics Lab
-      address: Fitzroy Road,
-      city: Exeter
-      state: Devon
-      postal_code: 'EX1 3PB'
-      country: UK
-      url: https://www.metoffice.gov.uk
-      phone: '03709000100'
     - id: turing
       name: The Alan Turing Institute
       department: Environment & Sustainability
-      address: British Library, 96 Euston Rd.,
-      city: London
-      state: Greater London
-      postal_code: 'NW1 2DB'
-      country: UK
-      url: https://www.turing.ac.uk/
-      phone: '02038623352'
   subject: Atmospheric Science
   keywords:
     - Environmental Data Science
@@ -87,7 +75,7 @@ project:
       output: exports/notebook.pdf
     - format: cff
       type: software
-      version: v1.0.7
+      version: v2.0.0
       license: MIT
       license-url: https://opensource.org/license/MIT
 
