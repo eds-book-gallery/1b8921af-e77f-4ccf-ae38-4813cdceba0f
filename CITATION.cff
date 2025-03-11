@@ -1,5 +1,8 @@
 cff-version: 1.2.0
 message: Please cite the following works when using this project.
+abstract: >-
+  Notebook developed to demonstrate how to explore UKV gridded model data using
+  the Iris package.
 title: >-
   Met Office UKV high-resolution atmosphere model data (Jupyter Notebook)
   published in the Environmental Data Science book
@@ -7,11 +10,6 @@ authors:
   - family-names: Adams
     given-names: Samantha V.
     affiliation: Met Office
-    address: Fitzroy Road,
-    city: Exeter
-    region: Devon
-    post-code: EX1 3PB
-    country: UK
     orcid: 0000-0003-3031-4855
     email: samantha.adams@metoffice.gov.uk
     website: https://github.com/svadams
@@ -20,11 +18,6 @@ contact:
   - family-names: Adams
     given-names: Samantha V.
     affiliation: Met Office
-    address: Fitzroy Road,
-    city: Exeter
-    region: Devon
-    post-code: EX1 3PB
-    country: UK
     orcid: 0000-0003-3031-4855
     email: samantha.adams@metoffice.gov.uk
     website: https://github.com/svadams
@@ -40,4 +33,4 @@ license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/1b8921af-e77f-4ccf-ae38-4813cdceba0f
 type: software
-version: v1.0.7
+version: v2.0.0
