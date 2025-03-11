@@ -76,6 +76,8 @@ project:
       version: v2.0.0
       license: MIT
       license-url: https://opensource.org/license/MIT
+  bibliography:
+    - references.bib
 
 site:
   template: book-theme
