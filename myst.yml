@@ -67,9 +67,10 @@ project:
     language:
       - Python
   keywords:
-    - Atmospheric Science
-    - Dataset
-    - Climate
+    - Environmental Data Science
+    - Urban
+    - Exploration
+    - Climate dataset
   requirements:
     - environment.yml
   subject: Atmospheric Science
