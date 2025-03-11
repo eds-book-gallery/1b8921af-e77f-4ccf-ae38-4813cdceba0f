@@ -27,6 +27,14 @@ project:
         - Writing – review & editing
       affiliations:
         - turing
+  editors:
+    - id: acoca
+      name: Alejandro Coca-Castro
+      orcid: 0000-0002-9264-1539
+      roles:
+        - Writing – review & editing
+      affiliations:
+        - turing
   affiliations:
     - id: metoffice
       name: Met Office
