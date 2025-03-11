@@ -56,6 +56,16 @@ project:
       country: UK
       url: https://www.turing.ac.uk/
       phone: '02038623352'
+  subject: Atmospheric Science
+  tags:
+    domains:
+      - Climate
+    type:
+      - Modelling
+    issue:
+      - Standard
+    language:
+      - Python
   keywords:
     - Atmospheric Science
     - Dataset
