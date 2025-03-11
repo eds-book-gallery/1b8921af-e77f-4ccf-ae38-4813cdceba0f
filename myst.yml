@@ -12,7 +12,8 @@ project:
     - id: sadams
       name: Samantha V. Adams
       orcid: 0000-0003-3031-4855
-      corresponding: false
+      corresponding: true
+      email: samantha.adams@metoffice.gov.uk
       url: https://github.com/svadams
       roles:
         - Investigation
