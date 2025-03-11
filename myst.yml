@@ -71,6 +71,10 @@ project:
     - Urban
     - Exploration
     - Climate dataset
+  venue:
+    title: Environmental Data Science Book
+    short_title: EDS Book
+    url: https://www.edsbook.org
   requirements:
     - environment.yml
   subject: Atmospheric Science
