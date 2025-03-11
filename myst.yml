@@ -19,11 +19,12 @@ project:
         - Visualization
       affiliations:
         - metoffice
+  reviewers:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
       roles:
-        - Validation
+        - Writing – review & editing
       affiliations:
         - turing
   affiliations:
