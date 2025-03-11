@@ -50,7 +50,6 @@ project:
     url: https://www.edsbook.org
   issue:
     name: Standard
-    description: Standard submission
   thumbnail: images/thumbnail.png
   requirements:
     - environment.yml
