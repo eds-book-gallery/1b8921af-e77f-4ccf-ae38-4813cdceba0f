@@ -7,7 +7,7 @@ project:
   title: Met Office UKV high-resolution atmosphere model data (Jupyter Notebook) published in the Environmental Data Science book
   subtitle: UKV high-resolution (Met Office)
   short_title: UKV high-resolution (Met Office)
-  abstract: "Notebook developed to demonstrate how to explore UKV gridded model data using the Iris package."
+  abstract: Notebook developed to demonstrate how to explore UKV gridded model data using the Iris package.
   authors:
     - id: sadams
       name: Samantha V. Adams
@@ -64,7 +64,7 @@ project:
   license:
     content: CC-BY-4.0
     code: MIT
-  date: '2023-09-01'
+  date: 2023-09-01
   toc:
     - file: notebook.ipynb
   exports:
