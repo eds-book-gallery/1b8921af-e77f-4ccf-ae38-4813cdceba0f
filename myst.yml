@@ -66,6 +66,7 @@ project:
     code: MIT
   date: 2023-09-01
   toc:
+    - file: README.md
     - file: notebook.ipynb
   exports:
     - format: pdf
