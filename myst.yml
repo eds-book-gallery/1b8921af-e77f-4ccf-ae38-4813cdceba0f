@@ -14,7 +14,7 @@ project:
       orcid: 0000-0003-3031-4855
       corresponding: true
       email: samantha.adams@metoffice.gov.uk
-      url: https://github.com/svadams
+      github: svadams
       roles:
         - Investigation
         - Software
@@ -25,7 +25,7 @@ project:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
-      url: https://github.com/acocac
+      github: acocac
       roles:
         - Writing – review & editing
       affiliations:
