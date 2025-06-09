@@ -6,4 +6,5 @@ dependencies:
   - python=3.9
   - jupyter
   - iris=3.3.0
+  - matplotlib==3.8.3
   - pooch

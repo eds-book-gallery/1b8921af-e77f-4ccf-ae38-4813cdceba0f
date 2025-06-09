@@ -1,0 +1,89 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook.yml
+project:
+  id: 1b8921af-e77f-4ccf-ae38-4813cdceba0f
+  title: Met Office UKV high-resolution atmosphere model data (Jupyter Notebook) published in the Environmental Data Science book
+  subtitle: UKV high-resolution (Met Office)
+  short_title: UKV high-resolution (Met Office)
+  abstract: Notebook developed to demonstrate how to explore UKV gridded model data using the Iris package.
+  authors:
+    - id: sadams
+      name: Samantha V. Adams
+      orcid: 0000-0003-3031-4855
+      corresponding: true
+      email: samantha.adams@metoffice.gov.uk
+      github: svadams
+      roles:
+        - Investigation
+        - Software
+        - Visualization
+      affiliations:
+        - metoffice
+  reviewers:
+    - id: acoca
+      name: Alejandro Coca-Castro
+      orcid: 0000-0002-9264-1539
+      github: acocac
+      roles:
+        - Writing – review & editing
+      affiliations:
+        - turing
+  editors:
+    - acoca
+  affiliations:
+    - id: metoffice
+      name: Met Office
+      department: Informatics Lab
+    - id: turing
+      name: The Alan Turing Institute
+      department: Environment & Sustainability
+  subject: Atmosphere
+  keywords:
+    - Atmosphere
+    - Exploration
+    - Standard
+    - Python
+  venue:
+    title: Environmental Data Science Book
+    short_title: EDS Book
+    url: https://www.edsbook.org
+  issue:
+    name: Standard
+  thumbnail: images/thumbnail.png
+  requirements:
+    - environment.yml
+  doi: 10.5281/zenodo.8309345
+  github: https://github.com/eds-book/1b8921af-e77f-4ccf-ae38-4813cdceba0f
+  jupyter:
+    binder:
+      repo: eds-book/1b8921af-e77f-4ccf-ae38-4813cdceba0f
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  date: 2023-09-01
+  toc:
+    - file: README.md
+    - file: notebook.ipynb
+  exports:
+    - format: pdf
+      template: curvenote
+      article: notebook.ipynb
+      output: exports/notebook.pdf
+    - format: cff
+      type: software
+      version: v2025.05.0
+      license: MIT
+      license-url: https://opensource.org/license/MIT
+      identifiers:
+        - description: "Open review report for this notebook"
+          type: url
+          value: "https://github.com/alan-turing-institute/environmental-ds-book/pull/3"
+  bibliography:
+    - references.bib
+
+site:
+  template: book-theme
